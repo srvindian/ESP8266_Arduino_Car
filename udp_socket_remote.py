@@ -3,6 +3,12 @@
 Created on Sun Sep 30 16:19:30 2018
 
 @author: Sourav
+
+
+                                                      W
+                      Controls      .....         A __|__ D
+                                                      |
+                                                      S
 """
 import cv2
 import numpy as np
